@@ -1,0 +1,11988 @@
+insert key1
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key2
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key3
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key4
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key5
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key6
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key7
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key8
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key9
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key10
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key11
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key12
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key13
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key14
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key15
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key16
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key17
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key18
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key19
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key20
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key21
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key22
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key23
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key24
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key25
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key26
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key27
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key28
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key29
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key30
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key31
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key32
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key33
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key34
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key35
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key36
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key37
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key38
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key39
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key40
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key41
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key42
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key43
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key44
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key45
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key46
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key47
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key48
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key49
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key50
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key51
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key52
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key53
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key54
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key55
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key56
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key57
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key58
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key59
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key60
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key61
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key62
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key63
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key64
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key65
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key66
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key67
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key68
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key69
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key70
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key71
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key72
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key73
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key74
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key75
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key76
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key77
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key78
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key79
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key80
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key81
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key82
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key83
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key84
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key85
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key86
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key87
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key88
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key89
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key90
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key91
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key92
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key93
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key94
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key95
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key96
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key97
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key98
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key99
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key100
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key101
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key102
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key103
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key104
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key105
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key106
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key107
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key108
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key109
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key110
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key111
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key112
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key113
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key114
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key115
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key116
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key117
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key118
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key119
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key120
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key121
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key122
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key123
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key124
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key125
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key126
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key127
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key128
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key129
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key130
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key131
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key132
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key133
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key134
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key135
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key136
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key137
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key138
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key139
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key140
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key141
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key142
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key143
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key144
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key145
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key146
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key147
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key148
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key149
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key150
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key151
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key152
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key153
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key154
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key155
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key156
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key157
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key158
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key159
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key160
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key161
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key162
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key163
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key164
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key165
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key166
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key167
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key168
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key169
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key170
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key171
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key172
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key173
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key174
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key175
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key176
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key177
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key178
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key179
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key180
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key181
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key182
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key183
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key184
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key185
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key186
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key187
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key188
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key189
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key190
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key191
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key192
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key193
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key194
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key195
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key196
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key197
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key198
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key199
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key200
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key201
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key202
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key203
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key204
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key205
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key206
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key207
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key208
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key209
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key210
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key211
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key212
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key213
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key214
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key215
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key216
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key217
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key218
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key219
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key220
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key221
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key222
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key223
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key224
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key225
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key226
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key227
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key228
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key229
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key230
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key231
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key232
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key233
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key234
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key235
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key236
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key237
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key238
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key239
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key240
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key241
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key242
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key243
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key244
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key245
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key246
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key247
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key248
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key249
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key250
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key251
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key252
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key253
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key254
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key255
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key256
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key257
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key258
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key259
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key260
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key261
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key262
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key263
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key264
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key265
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key266
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key267
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key268
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key269
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key270
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key271
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key272
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key273
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key274
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key275
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key276
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key277
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key278
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key279
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key280
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key281
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key282
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key283
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key284
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key285
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key286
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key287
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key288
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key289
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key290
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key291
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key292
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key293
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key294
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key295
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key296
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key297
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key298
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key299
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key300
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key301
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key302
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key303
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key304
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key305
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key306
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key307
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key308
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key309
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key310
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key311
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key312
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key313
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key314
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key315
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key316
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key317
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key318
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key319
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key320
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key321
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key322
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key323
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key324
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key325
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key326
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key327
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key328
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key329
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key330
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key331
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key332
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key333
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key334
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key335
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key336
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key337
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key338
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key339
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key340
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key341
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key342
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key343
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key344
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key345
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key346
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key347
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key348
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key349
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key350
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key351
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key352
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key353
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key354
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key355
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key356
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key357
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key358
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key359
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key360
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key361
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key362
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key363
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key364
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key365
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key366
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key367
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key368
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key369
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key370
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key371
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key372
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key373
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key374
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key375
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key376
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key377
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key378
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key379
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key380
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key381
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key382
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key383
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key384
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key385
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key386
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key387
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key388
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key389
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key390
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key391
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key392
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key393
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key394
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key395
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key396
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key397
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key398
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key399
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key400
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key401
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key402
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key403
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key404
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key405
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key406
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key407
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key408
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key409
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key410
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key411
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key412
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key413
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key414
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key415
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key416
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key417
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key418
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key419
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key420
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key421
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key422
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key423
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key424
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key425
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key426
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key427
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key428
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key429
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key430
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key431
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key432
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key433
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key434
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key435
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key436
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key437
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key438
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key439
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key440
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key441
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key442
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key443
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key444
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key445
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key446
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key447
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key448
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key449
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key450
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key451
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key452
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key453
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key454
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key455
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key456
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key457
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key458
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key459
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key460
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key461
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key462
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key463
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key464
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key465
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key466
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key467
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key468
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key469
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key470
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key471
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key472
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key473
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key474
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key475
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key476
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key477
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key478
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key479
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key480
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key481
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key482
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key483
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key484
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key485
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key486
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key487
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key488
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key489
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key490
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key491
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key492
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key493
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key494
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key495
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key496
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key497
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key498
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key499
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key500
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key501
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key502
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key503
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key504
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key505
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key506
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key507
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key508
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key509
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key510
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key511
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key512
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key513
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key514
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key515
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key516
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key517
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key518
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key519
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key520
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key521
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key522
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key523
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key524
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key525
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key526
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key527
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key528
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key529
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key530
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key531
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key532
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key533
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key534
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key535
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key536
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key537
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key538
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key539
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key540
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key541
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key542
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key543
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key544
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key545
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key546
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key547
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key548
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key549
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key550
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key551
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key552
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key553
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key554
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key555
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key556
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key557
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key558
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key559
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key560
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key561
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key562
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key563
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key564
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key565
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key566
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key567
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key568
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key569
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key570
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key571
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key572
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key573
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key574
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key575
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key576
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key577
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key578
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key579
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key580
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key581
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key582
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key583
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key584
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key585
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key586
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key587
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key588
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key589
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key590
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key591
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key592
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key593
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key594
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key595
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key596
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key597
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key598
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key599
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key600
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key601
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key602
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key603
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key604
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key605
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key606
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key607
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key608
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key609
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key610
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key611
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key612
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key613
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key614
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key615
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key616
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key617
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key618
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key619
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key620
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key621
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key622
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key623
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key624
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key625
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key626
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key627
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key628
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key629
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key630
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key631
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key632
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key633
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key634
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key635
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key636
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key637
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key638
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key639
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key640
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key641
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key642
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key643
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key644
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key645
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key646
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key647
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key648
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key649
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key650
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key651
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key652
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key653
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key654
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key655
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key656
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key657
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key658
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key659
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key660
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key661
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key662
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key663
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key664
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key665
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key666
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key667
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key668
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key669
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key670
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key671
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key672
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key673
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key674
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key675
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key676
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key677
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key678
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key679
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key680
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key681
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key682
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key683
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key684
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key685
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key686
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key687
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key688
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key689
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key690
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key691
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key692
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key693
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key694
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key695
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key696
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key697
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key698
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key699
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key700
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key701
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key702
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key703
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key704
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key705
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key706
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key707
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key708
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key709
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key710
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key711
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key712
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key713
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key714
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key715
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key716
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key717
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key718
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key719
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key720
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key721
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key722
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key723
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key724
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key725
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key726
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key727
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key728
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key729
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key730
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key731
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key732
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key733
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key734
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key735
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key736
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key737
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key738
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key739
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key740
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key741
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key742
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key743
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key744
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key745
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key746
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key747
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key748
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key749
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key750
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key751
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key752
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key753
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key754
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key755
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key756
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key757
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key758
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key759
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key760
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key761
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key762
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key763
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key764
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key765
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key766
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key767
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key768
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key769
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key770
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key771
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key772
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key773
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key774
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key775
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key776
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key777
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key778
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key779
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key780
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key781
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key782
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key783
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key784
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key785
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key786
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key787
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key788
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key789
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key790
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key791
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key792
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key793
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key794
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key795
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key796
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key797
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key798
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key799
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key800
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key801
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key802
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key803
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key804
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key805
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key806
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key807
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key808
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key809
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key810
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key811
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key812
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key813
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key814
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key815
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key816
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key817
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key818
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key819
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key820
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key821
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key822
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key823
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key824
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key825
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key826
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key827
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key828
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key829
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key830
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key831
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key832
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key833
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key834
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key835
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key836
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key837
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key838
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key839
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key840
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key841
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key842
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key843
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key844
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key845
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key846
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key847
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key848
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key849
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key850
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key851
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key852
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key853
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key854
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key855
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key856
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key857
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key858
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key859
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key860
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key861
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key862
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key863
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key864
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key865
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key866
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key867
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key868
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key869
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key870
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key871
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key872
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key873
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key874
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key875
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key876
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key877
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key878
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key879
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key880
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key881
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key882
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key883
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key884
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key885
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key886
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key887
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key888
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key889
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key890
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key891
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key892
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key893
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key894
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key895
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key896
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key897
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key898
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key899
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key900
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key901
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key902
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key903
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key904
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key905
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key906
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key907
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key908
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key909
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key910
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key911
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key912
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key913
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key914
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key915
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key916
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key917
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key918
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key919
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key920
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key921
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key922
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key923
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key924
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key925
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key926
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key927
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key928
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key929
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key930
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key931
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key932
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key933
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key934
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key935
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key936
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key937
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key938
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key939
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key940
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key941
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key942
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key943
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key944
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key945
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key946
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key947
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key948
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key949
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key950
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key951
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key952
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key953
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key954
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key955
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key956
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key957
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key958
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key959
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key960
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key961
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key962
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key963
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key964
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key965
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key966
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key967
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key968
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key969
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key970
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key971
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key972
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key973
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key974
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key975
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key976
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key977
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key978
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key979
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key980
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key981
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key982
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key983
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key984
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key985
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key986
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key987
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key988
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key989
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key990
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key991
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key992
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key993
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key994
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key995
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key996
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key997
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key998
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
+insert key999
+spb
+1 1
+1
+1
+1
+desert
+timocracy
+low
+serega
+200
+2003-03-03
