@@ -1,4 +1,4 @@
-import NikandrovLab5.utility.TextFormatting;
+import utility.TextFormatting;
 
 import java.io.*;
 import java.net.InetSocketAddress;
@@ -6,13 +6,13 @@ import java.nio.channels.DatagramChannel;
 import java.util.Scanner;
 
 public class Client {
-    public static void main(String[] args) throws IOException, ClassNotFoundException {
+    public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
         Scanner scanner = new Scanner(System.in);
         DatagramChannel clientChannel = DatagramChannel.open();
         InetSocketAddress serverAddress = null;
         try {
-//            int port = Integer.parseInt(System.getenv("port"));
-            int port = 7354;
+            int port = Integer.parseInt(System.getenv("port"));
+//            int port = 7354;
             serverAddress = new InetSocketAddress("localhost", port);
         }
         catch(Exception ignored){

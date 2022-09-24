@@ -3,10 +3,10 @@ import java.nio.ByteBuffer;
 import java.util.Locale;
 import java.util.Scanner;
 
-import NikandrovLab5.data.*;
-import NikandrovLab5.utility.FieldReceiver;
-import NikandrovLab5.utility.TextFormatting;
-import NikandrovLab5.utility.Transformation;
+import data.*;
+import utility.FieldReceiver;
+import utility.TextFormatting;
+import utility.Transformation;
 import src.ClientMessage;
 
 

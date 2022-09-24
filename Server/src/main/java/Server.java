@@ -1,20 +1,24 @@
-import NikandrovLab5.commands.Save;
-import NikandrovLab5.data.City;
-import NikandrovLab5.data.Coordinates;
-import NikandrovLab5.data.Human;
-import NikandrovLab5.utility.Collection;
-import NikandrovLab5.utility.Database;
-import NikandrovLab5.utility.TextFormatting;
+import data.City;
+import data.Coordinates;
+import data.Human;
+import utility.Collection;
+import utility.Database;
+import utility.TextFormatting;
 
 import java.io.File;
 import java.io.IOException;
 import java.net.InetSocketAddress;
+import java.nio.channels.ClosedChannelException;
 import java.nio.channels.DatagramChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
+import java.security.NoSuchAlgorithmException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class Server {
     public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException {
@@ -23,8 +27,8 @@ public class Server {
 
         { //Port Selection
             try {
-//            int port = Integer.parseInt(System.getenv("port"));
-                int port = 7354;
+            int port = Integer.parseInt(System.getenv("port"));
+//                int port = 7354;
                 serverChannel.bind(new InetSocketAddress("localhost", port));
             } catch (Exception ignored) {
                 System.out.println(TextFormatting.getRedText("This port is busy or you entered the wrong port"));
@@ -52,50 +56,47 @@ public class Server {
             city.setGovernor(new Human(resSet.getString("name_of_governor"), resSet.getDouble("height_of_governor"), resSet.getString("birthday_of_governor")));
             city.setCreator(resSet.getString("creator"));
 
+            collection.id = (Math.max(collection.id, city.getId()));
             String creator = resSet.getString("creator");
             if (!collection.creators.containsKey(creator)) {
                 collection.creators.put(creator, new Vector<>());
             }
-            collection.creators.get(creator).add(city);
+            collection.creators.get(creator).add(key);
             collection.collection.put(key, city);
         }
+        collection.id++;
 
         ServerReceiver serverReceiver = new ServerReceiver(serverChannel);
         ServerSender serverSender = new ServerSender(serverChannel);
         ServerManager serverManager = new ServerManager(serverReceiver, serverSender, database);
 
-        serverManager.start();
+        serverManager.startServer();
 
         System.out.println("The server has started working");
 
-        Selector selector = Selector.open();
+        Selector selector;
+        selector = Selector.open();
         serverChannel.register(selector, SelectionKey.OP_READ);
-        new Thread(() -> {
-            while(true) {
-
-                try {
+        Runnable clientTask = () -> {
+            try {
+                while(true) {
                     selector.select();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
+                    Iterator<SelectionKey> it = selector.selectedKeys().iterator();
 
-                Iterator<SelectionKey> it = selector.selectedKeys().iterator();
-                while(it.hasNext()){
-                    SelectionKey key = it.next();
-                    it.remove();
-                    if(key.isReadable()) {
-                        try {
+                    while(it.hasNext()){
+                        SelectionKey key = it.next();
+                        it.remove();
+                        if(key.isReadable()) {
                             serverManager.run(collection);
-                        }
-                        catch(Exception exception){
-                            exception.printStackTrace();
                         }
                     }
                 }
+            } catch (Exception e) {
+                e.printStackTrace();
             }
-        }).start();
+        };
 
-        new Thread(() -> {
+        Runnable serverTask = () -> {
             Scanner scanner = new Scanner(System.in);
             while(true){
                 if(scanner.hasNext()){
@@ -109,6 +110,12 @@ public class Server {
                     }
                 }
             }
-        }).start();
+        };
+
+        ExecutorService pool = Executors.newCachedThreadPool();
+        pool.execute(clientTask);
+        pool.execute(serverTask);
+
+        pool.shutdown();
     }
 }

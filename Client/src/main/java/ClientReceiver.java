@@ -1,5 +1,5 @@
-import NikandrovLab5.utility.TextFormatting;
-import NikandrovLab5.utility.Transformation;
+import utility.TextFormatting;
+import utility.Transformation;
 import src.ServerMessage;
 
 import java.io.IOException;
