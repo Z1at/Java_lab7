@@ -21,7 +21,8 @@ public class Operations {
     public ArrayList<String> paths = new ArrayList<>();
 
     //0 - ok, 1 - exit, 2 - same path again, 3 - error in file
-    public synchronized int run(String[] clientMessage, Collection collection, ServerMessage answer, Operations operations, String login) throws SQLException {
+    public synchronized int run(String[] clientMessage, Collection collection, ServerMessage answer, Operations operations, String login) {
+        System.out.println("Main operation");
         if (clientMessage[0].equals("help") & clientMessage.length == 1){
             Help.create(Help.vocabulary.size());
             answer.plusMessage(Help.help());
@@ -35,11 +36,17 @@ public class Operations {
             answer.plusMessage(show.show(collection));
         }
         else if(clientMessage[0].equals("clear") & clientMessage.length == 1){
-            Clear clear = new Clear();
-            clear.clear(collection, login);
+            try {
+                Clear clear = new Clear();
+                clear.clear(collection, login);
+            }
+            catch (SQLException ignored){
+                System.out.println("clear_operations");
+            }
 //            Database.clear();
         }
         else if(clientMessage[0].equals("execute_script")){
+            System.out.println("Execute script operation");
             ExecuteScript executeScript = new ExecuteScript();
             int result = executeScript.checkingTheCycle(clientMessage[1], operations, answer);
             if(result == 2){
@@ -57,20 +64,40 @@ public class Operations {
             }
         }
         else if(clientMessage[0].equals("remove_key") & clientMessage.length == 2){
-            RemoveKey removeKey = new RemoveKey();
-            removeKey.removeKey(clientMessage[1], collection, login);
+            try {
+                RemoveKey removeKey = new RemoveKey();
+                removeKey.removeKey(clientMessage[1], collection, login);
+            }
+            catch (SQLException ignored){
+                System.out.println("remove_key_operations");
+            }
         }
         else if (clientMessage[0].equals("remove_greater") & clientMessage.length == 2){
-            RemoveGreater removeGreater = new RemoveGreater();
-            removeGreater.removeGreater(collection, clientMessage[1], login);
+            try {
+                RemoveGreater removeGreater = new RemoveGreater();
+                removeGreater.removeGreater(collection, clientMessage[1], login);
+            }
+            catch (SQLException ignored){
+                System.out.println("remove_greater_operations");
+            }
         }
         else if(clientMessage[0].equals("remove_lower") & clientMessage.length == 2){
-            RemoveLower removeLower = new RemoveLower();
-            removeLower.removeLower(collection, clientMessage[1], login);
+            try {
+                RemoveLower removeLower = new RemoveLower();
+                removeLower.removeLower(collection, clientMessage[1], login);
+            }
+            catch (SQLException ignored){
+                System.out.println("remove_lower_operations");
+            }
         }
         else if(clientMessage[0].equals("remove_greater_key") & clientMessage.length == 2){
-            RemoveGreaterKey removeGreaterKey = new RemoveGreaterKey();
-            removeGreaterKey.removeGreaterKey(clientMessage[1], collection, login);
+            try {
+                RemoveGreaterKey removeGreaterKey = new RemoveGreaterKey();
+                removeGreaterKey.removeGreaterKey(clientMessage[1], collection, login);
+            }
+            catch (SQLException ignored){
+                System.out.println("remove_greater_key_operations");
+            }
         }
         else if(clientMessage[0].equals("remove_any_by_governor") & clientMessage.length == 4){
             try {

@@ -27,7 +27,7 @@ public class Server {
 
         { //Port Selection
             try {
-            int port = Integer.parseInt(System.getenv("port"));
+                int port = Integer.parseInt(System.getenv("port"));
 //                int port = 7354;
                 serverChannel.bind(new InetSocketAddress("localhost", port));
             } catch (Exception ignored) {
@@ -99,15 +99,19 @@ public class Server {
         Runnable serverTask = () -> {
             Scanner scanner = new Scanner(System.in);
             while(true){
-                if(scanner.hasNext()){
-                    String command = scanner.nextLine();
-                    if(command.equals("exit")){
-                        System.out.println(TextFormatting.getYellowText("The program is over, I hope you enjoyed it"));
-                        System.exit(0);
+                try {
+                    if (scanner.hasNext()) {
+                        String command = scanner.nextLine();
+                        if (command.equals("exit")) {
+                            System.out.println(TextFormatting.getYellowText("The program is over, I hope you enjoyed it"));
+                            System.exit(0);
+                        } else {
+                            System.out.println(TextFormatting.getRedText("Unknown command"));
+                        }
                     }
-                    else{
-                        System.out.println(TextFormatting.getRedText("Unknown command"));
-                    }
+                }
+                catch (Exception ignored){
+                    System.out.println("The program is over, I hope ou enjoyed it");
                 }
             }
         };

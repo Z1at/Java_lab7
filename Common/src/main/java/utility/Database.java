@@ -16,43 +16,25 @@ public class Database {
 //        Class.forName("org.sqlite.JDBC");
 //        conn = DriverManager.getConnection("jdbc:sqlite:TstDataBase");
 
-//        try {
-//            Class.forName("org.postgresql.Driver");
-//        } catch (ClassNotFoundException e) {
-//            System.out.println(1);
-//        }
-//        String login = "s336870";
-//        String password = "IfUKoauu2d9eLuJ2";
-//        String host = "jdbc:postgresql://pg:5432/studs";
 
-//        final String DB_URL = "jdbc:postgresql://pg:5432/studs";
-//        final String USER = "s336870";
-//        final String PASS = "IfUKoauu2d9eLuJ2";
-//        try {
-//            Class.forName("org.postgresql.Driver");
-//        }
-//        catch (ClassNotFoundException e){
-//            System.out.println("kek");
-//        }
-//        conn = DriverManager.getConnection(host, login, password);
 
         try {
             Class.forName("org.postgresql.Driver");
         } catch (ClassNotFoundException e) {
-            //бросить ошибку
+//            бросить ошибку
         }
         String login = System.getenv("DB_LOGIN");
         String password = System.getenv("DB_PASSWORD");
         String host = System.getenv("DB_HOST");
         if (login == null || password == null) {
-            //Бросить ошибку
+//            Бросить ошибку
         }
         if (host == null) {
             host = "jdbc:postgresql://pg:5432/studs";
         }
 
         conn = DriverManager.getConnection(host, login, password);
-
+//
         System.out.println("Database is connect");
     }
 

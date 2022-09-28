@@ -23,20 +23,22 @@ public class ExecuteScript {
         return 0;
     }
 
-    public int check(String[] concatenation, Collection collection, FileReader file, Operations operations, ServerMessage answer, String login) throws SQLException {
+    public int check(String[] concatenation, Collection collection, FileReader file, Operations operations, ServerMessage answer, String login) throws SQLException, IOException {
+        System.out.println("check main");
         if (concatenation[0].equals("insert") & concatenation.length == 2) {
-            try {
+//            try {
+            System.out.println("insert for file check");
                 if (!concatenation[1].contains(",")) {
                     FileOutput.insert(collection, concatenation[1], file, login);
                 }
-            } catch (IOException ignored) {
-
-            }
+//            } catch (IOException | SQLException ignored) {
+//                System.out.println("insert_check");
+//            }
         } else if (concatenation[0].equals("update") & concatenation.length == 2) {
             try {
                 FileOutput.updateId(collection, Integer.parseInt(concatenation[1]), file);
-            } catch (NumberFormatException | IOException ignored) {
-
+            } catch (NumberFormatException | IOException | SQLException ignored) {
+                System.out.println("update_check");
             }
         } else {
             int result = operations.run(concatenation, collection, answer, operations, login);
@@ -48,6 +50,7 @@ public class ExecuteScript {
     }
 
     public int executeScript(String path, Collection collection, Operations operations, ServerMessage answer, String login) {
+        System.out.println("Execute script main");
         try {
             File checkFile = new File(path);
             if (!checkFile.canRead()) {
@@ -79,10 +82,8 @@ public class ExecuteScript {
             }
             file.close();
             return result;
-        } catch (IOException e) {
+        } catch (IOException | SQLException e) {
             answer.plusMessage("Invalid path" + '\n');
-        } catch (SQLException e) {
-            e.printStackTrace();
         }
         return 0;
     }

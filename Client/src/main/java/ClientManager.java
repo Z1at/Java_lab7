@@ -1,6 +1,5 @@
 import java.io.*;
 import java.nio.ByteBuffer;
-import java.util.Locale;
 import java.util.Scanner;
 
 import data.*;

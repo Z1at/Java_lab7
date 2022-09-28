@@ -49,12 +49,14 @@ public class ServerManager extends Thread{
     public void run(Collection collection) throws IOException, ClassNotFoundException, InterruptedException, NoSuchAlgorithmException, SQLException {
         lock.lock();
         try {
+            System.out.println("Server manager main");
             ServerMessage answer = new ServerMessage("The command was executed" + '\n');
             ByteBuffer byteBuffer = serverReceiver.receive(serverSender);
             ClientMessage clientMessage = (ClientMessage) Transformation.Deserialization(byteBuffer);
             boolean f = true;
             if (clientMessage.command != null) {
                 if (clientMessage.command.equals("insert")) {
+                    System.out.println("Server manager insert");
                     if (clientMessage.arg.contains(",")) {
                         answer.setMessage("There can be no commas in the key" + '\n');
                     } else if (collection.collection.containsKey(clientMessage.arg)) {
@@ -71,6 +73,8 @@ public class ServerManager extends Thread{
 
                                 //ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection" + " WHERE key = " + "'" + clientMessage.arg + "'" + ";");
                                 //city.setId(resultSet.getInt("id"));
+
+                                city.setCreator(clientMessage.login);
                                 collection.collection.put(clientMessage.arg, city);
                                 if (!collection.creators.containsKey(clientMessage.login)) {
                                     collection.creators.put(clientMessage.login, new Vector<>());
@@ -79,8 +83,7 @@ public class ServerManager extends Thread{
                                 answer.setMessage("The object was successfully added" + '\n');
                                 break;
                             } catch (Exception e) {
-                                //System.out.println(e);
-                                //answer.setMessage("Failed to add element");
+                                answer.setMessage("Failed to add element");
                             }
                         }
                     }
@@ -204,14 +207,17 @@ public class ServerManager extends Thread{
                     }
                     serverSender.send(answer);
                 } catch (Exception e) {
-                    e.printStackTrace();
+                    System.out.println("run_Server_manager");
                 }
-
             };
 
             ExecutorService pool = Executors.newCachedThreadPool();
             pool.execute(serverManagerTask);
             sleep(100);
+//                System.out.println("Server manager operation");
+//                answer.setMessage("");
+//                Operations operations = new Operations();
+//                operations.run(clientMessage.commands, collection, answer, operations, clientMessage.login);
         }
 
         if (f) serverSender.send(answer);

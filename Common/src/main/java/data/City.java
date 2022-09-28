@@ -180,7 +180,7 @@ public class City implements Serializable {
                 "government = " + government + '\n' +
                 "standardOfLiving = " + standardOfLiving + '\n' +
                 "name of governor = " + governor.getName() + ". height of governor: " + governor.getHeight() +
-                ". " + " birthday of governor: " + governor.getBirthday() + '\n';
+                ". " + " birthday of governor: " + governor.getBirthday() + '\n' + "creator: " + creator + '\n';
     }
 
     @Override
