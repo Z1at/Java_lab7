@@ -52,7 +52,12 @@ public class Database {
         System.out.println("The table has been created or already exists");
     }
 
-    public static boolean updateDB(Object obj, String field, int id) throws SQLException {
+    public static boolean updateIntDB(Object obj, String field, int id) throws SQLException {
+        int flag = statmt.executeUpdate("UPDATE collection SET " + field + " = " + obj + " WHERE id = " + id + ";");
+        return (flag > 0);
+    }
+
+    public static boolean updateStringDB(Object obj, String field, int id) throws SQLException {
         int flag = statmt.executeUpdate("UPDATE collection SET " + field + " = " + "'" + obj + "'" + " WHERE id = " + id + ";");
         return (flag > 0);
     }

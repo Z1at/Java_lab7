@@ -116,52 +116,52 @@ public class ServerManager extends Thread{
                         } else {
                             switch (clientMessage.arg) {
                                 case "name" -> {
-                                    if (Database.updateDB(clientMessage.obj, "name", clientMessage.id)) {
+                                    if (Database.updateStringDB(clientMessage.obj, "name", clientMessage.id)) {
                                         collection.collection.get(key).setName((String) clientMessage.obj);
                                     }
                                 }
                                 case "coordinates" -> {
                                     Coordinates coordinates = (Coordinates) clientMessage.obj;
-                                    if (Database.updateDB(coordinates.getX(), "coordinates_of_x", clientMessage.id) &
-                                            Database.updateDB(coordinates.getY(), "coordinates_of_y", clientMessage.id)) {
+                                    if (Database.updateIntDB(coordinates.getX(), "coordinates_of_x", clientMessage.id) &
+                                            Database.updateIntDB(coordinates.getY(), "coordinates_of_y", clientMessage.id)) {
                                         collection.collection.get(key).setCoordinates(coordinates);
                                     }
                                 }
                                 case "area" -> {
-                                    if (Database.updateDB(clientMessage.obj, "area", clientMessage.id)) {
+                                    if (Database.updateIntDB(clientMessage.obj, "area", clientMessage.id)) {
                                         collection.collection.get(key).setArea((Double) clientMessage.obj);
                                     }
                                 }
                                 case "population" -> {
-                                    if (Database.updateDB(clientMessage.obj, "population", clientMessage.id)) {
+                                    if (Database.updateIntDB(clientMessage.obj, "population", clientMessage.id)) {
                                         collection.collection.get(key).setPopulation((Long) clientMessage.obj);
                                     }
                                 }
                                 case "metersabovesealevel" -> {
-                                    if (Database.updateDB(clientMessage.obj, "meters", clientMessage.id)) {
+                                    if (Database.updateIntDB(clientMessage.obj, "meters", clientMessage.id)) {
                                         collection.collection.get(key).setMetersAboveSeaLevel((Integer) clientMessage.obj);
                                     }
                                 }
                                 case "climate" -> {
-                                    if (Database.updateDB(clientMessage.obj, "climate", clientMessage.id)) {
+                                    if (Database.updateStringDB(clientMessage.obj, "climate", clientMessage.id)) {
                                         collection.collection.get(key).setClimate((Climate) clientMessage.obj);
                                     }
                                 }
                                 case "government" -> {
-                                    if (Database.updateDB(clientMessage.obj, "government", clientMessage.id)) {
+                                    if (Database.updateStringDB(clientMessage.obj, "government", clientMessage.id)) {
                                         collection.collection.get(key).setGovernment((Government) clientMessage.obj);
                                     }
                                 }
                                 case "standardofliving" -> {
-                                    if (Database.updateDB(clientMessage.obj, "standard_of_living", clientMessage.id)) {
+                                    if (Database.updateStringDB(clientMessage.obj, "standard_of_living", clientMessage.id)) {
                                         collection.collection.get(key).setStandardOfLiving((StandardOfLiving) clientMessage.obj);
                                     }
                                 }
                                 case "governor" -> {
                                     Human human = (Human) clientMessage.obj;
-                                    if (Database.updateDB(human.getName(), "name_of_governor", clientMessage.id) &
-                                            Database.updateDB(human.getHeight(), "height_of_governor", clientMessage.id) &
-                                            Database.updateDB(human.getBirthday(), "birthday_of_governor", clientMessage.id)) {
+                                    if (Database.updateStringDB(human.getName(), "name_of_governor", clientMessage.id) &
+                                            Database.updateIntDB(human.getHeight(), "height_of_governor", clientMessage.id) &
+                                            Database.updateStringDB(human.getBirthday(), "birthday_of_governor", clientMessage.id)) {
                                         collection.collection.get(key).setGovernor((Human) clientMessage.obj);
                                     }
                                 }
@@ -214,10 +214,6 @@ public class ServerManager extends Thread{
             ExecutorService pool = Executors.newCachedThreadPool();
             pool.execute(serverManagerTask);
             sleep(100);
-//                System.out.println("Server manager operation");
-//                answer.setMessage("");
-//                Operations operations = new Operations();
-//                operations.run(clientMessage.commands, collection, answer, operations, clientMessage.login);
         }
 
         if (f) serverSender.send(answer);

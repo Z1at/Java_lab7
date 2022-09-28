@@ -19,6 +19,7 @@ import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.stream.Stream;
 
 public class Server {
     public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException {
@@ -65,6 +66,9 @@ public class Server {
             collection.collection.put(key, city);
         }
         collection.id++;
+
+        Stream<String> stream = collection.collection.keySet().stream().sorted((key1, key2) -> -key1.compareTo(key2));
+        stream.forEach((s) -> collection.collection.put(s, collection.collection.remove(s)));
 
         ServerReceiver serverReceiver = new ServerReceiver(serverChannel);
         ServerSender serverSender = new ServerSender(serverChannel);

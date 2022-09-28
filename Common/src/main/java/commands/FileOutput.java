@@ -78,15 +78,15 @@ public class FileOutput {
                 case "name" -> {
                     String name = FieldReceiverForFile.getName(file);
                     if (name != null) {
-                        boolean f = Database.updateDB(name, "name", id);
+                        boolean f = Database.updateStringDB(name, "name", id);
                         if(f) collection.collection.get(copyKey).setName(name);
                     }
                 }
                 case "coordinates" -> {
                     Coordinates coordinates = FieldReceiverForFile.getCoordinates(file);
                     if (coordinates.getY() != -1) {
-                        if(Database.updateDB(coordinates.getX(), "coordinates_of_x", id) &
-                                Database.updateDB(coordinates.getY(), "coordinates_of_y", id)){
+                        if(Database.updateIntDB(coordinates.getX(), "coordinates_of_x", id) &
+                                Database.updateIntDB(coordinates.getY(), "coordinates_of_y", id)){
                             collection.collection.get(copyKey).setCoordinates(coordinates);
                         }
                     }
@@ -94,7 +94,7 @@ public class FileOutput {
                 case "area" -> {
                     double area = FieldReceiverForFile.getArea(file);
                     if (area > 0) {
-                        if(Database.updateDB(area, "area", id)){
+                        if(Database.updateIntDB(area, "area", id)){
                             collection.collection.get(copyKey).setArea(area);
                         }
                     }
@@ -102,7 +102,7 @@ public class FileOutput {
                 case "population" -> {
                     Long population = FieldReceiverForFile.getPopulation(file);
                     if (population > 0) {
-                        if(Database.updateDB(population, "population", id)) {
+                        if(Database.updateIntDB(population, "population", id)) {
                             collection.collection.get(copyKey).setPopulation(population);
                         }
                     }
@@ -110,7 +110,7 @@ public class FileOutput {
                 case "metersabvovesealevel" -> {
                     Integer metersAboveSeaLevel = FieldReceiverForFile.getMetersAboveSeaLevel(file);
                     if (metersAboveSeaLevel != null) {
-                        if(Database.updateDB(metersAboveSeaLevel, "meters", id)) {
+                        if(Database.updateIntDB(metersAboveSeaLevel, "meters", id)) {
                             collection.collection.get(copyKey).setMetersAboveSeaLevel(metersAboveSeaLevel);
                         }
                     }
@@ -118,7 +118,7 @@ public class FileOutput {
                 case "climate" -> {
                     Climate climate = FieldReceiverForFile.getClimate(file);
                     if (climate != null) {
-                        if(Database.updateDB(climate, "climate", id)) {
+                        if(Database.updateStringDB(climate, "climate", id)) {
                             collection.collection.get(copyKey).setClimate(climate);
                         }
                     }
@@ -126,7 +126,7 @@ public class FileOutput {
                 case "government" -> {
                     Government government = FieldReceiverForFile.getGovernment(file);
                     if (government != null) {
-                        if(Database.updateDB(government, "government", id)) {
+                        if(Database.updateStringDB(government, "government", id)) {
                             collection.collection.get(copyKey).setGovernment(government);
                         }
                     }
@@ -134,7 +134,7 @@ public class FileOutput {
                 case "standardofliving" -> {
                     StandardOfLiving standardOfLiving = FieldReceiverForFile.getStandardOfLiving(file);
                     if (standardOfLiving != null) {
-                        if(Database.updateDB(standardOfLiving, "standard_of_living", id)) {
+                        if(Database.updateStringDB(standardOfLiving, "standard_of_living", id)) {
                             collection.collection.get(copyKey).setStandardOfLiving(standardOfLiving);
                         }
                     }
@@ -142,9 +142,9 @@ public class FileOutput {
                 case "governor" -> {
                     Human human = FieldReceiverForFile.getGovernor(file);
                     if (human != null) {
-                        if(Database.updateDB(human.getName(), "name_of_governor", id) &
-                                Database.updateDB(human.getHeight(), "height_of_governor", id) &
-                                Database.updateDB(human.getBirthday(), "birthday_of_governor", id)) {
+                        if(Database.updateStringDB(human.getName(), "name_of_governor", id) &
+                                Database.updateIntDB(human.getHeight(), "height_of_governor", id) &
+                                Database.updateStringDB(human.getBirthday(), "birthday_of_governor", id)) {
                             collection.collection.get(copyKey).setGovernor(human);
                         }
                     }
