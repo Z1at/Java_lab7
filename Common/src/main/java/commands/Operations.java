@@ -66,7 +66,7 @@ public class Operations {
         else if(clientMessage[0].equals("remove_key") & clientMessage.length == 2){
             try {
                 RemoveKey removeKey = new RemoveKey();
-                removeKey.removeKey(clientMessage[1], collection, login);
+                removeKey.removeKey(clientMessage[1], collection, login, answer);
             }
             catch (SQLException ignored){
                 System.out.println("remove_key_operations");
@@ -75,7 +75,7 @@ public class Operations {
         else if (clientMessage[0].equals("remove_greater") & clientMessage.length == 2){
             try {
                 RemoveGreater removeGreater = new RemoveGreater();
-                removeGreater.removeGreater(collection, clientMessage[1], login);
+                removeGreater.removeGreater(collection, clientMessage[1], login, answer);
             }
             catch (SQLException ignored){
                 System.out.println("remove_greater_operations");
@@ -84,7 +84,7 @@ public class Operations {
         else if(clientMessage[0].equals("remove_lower") & clientMessage.length == 2){
             try {
                 RemoveLower removeLower = new RemoveLower();
-                removeLower.removeLower(collection, clientMessage[1], login);
+                removeLower.removeLower(collection, clientMessage[1], login, answer);
             }
             catch (SQLException ignored){
                 System.out.println("remove_lower_operations");
@@ -93,7 +93,7 @@ public class Operations {
         else if(clientMessage[0].equals("remove_greater_key") & clientMessage.length == 2){
             try {
                 RemoveGreaterKey removeGreaterKey = new RemoveGreaterKey();
-                removeGreaterKey.removeGreaterKey(clientMessage[1], collection, login);
+                removeGreaterKey.removeGreaterKey(clientMessage[1], collection, login, answer);
             }
             catch (SQLException ignored){
                 System.out.println("remove_greater_key_operations");
@@ -102,7 +102,7 @@ public class Operations {
         else if(clientMessage[0].equals("remove_any_by_governor") & clientMessage.length == 4){
             try {
                 RemoveAnyByGovernor removeAnyByGovernor = new RemoveAnyByGovernor();
-                removeAnyByGovernor.removeAnyByGovernor(new Human(clientMessage[1], Double.parseDouble(clientMessage[2]), LocalDate.parse(clientMessage[3])), collection, login);
+                removeAnyByGovernor.removeAnyByGovernor(new Human(clientMessage[1], Double.parseDouble(clientMessage[2]), LocalDate.parse(clientMessage[3])), collection, login, answer);
             }
             catch (NumberFormatException exception){
                 answer.plusMessage("Wrong arguments" + '\n');

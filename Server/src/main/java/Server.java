@@ -81,49 +81,54 @@ public class Server {
         Selector selector;
         selector = Selector.open();
         serverChannel.register(selector, SelectionKey.OP_READ);
-        Runnable clientTask = () -> {
-            try {
-                while(true) {
-                    selector.select();
-                    Iterator<SelectionKey> it = selector.selectedKeys().iterator();
-
-                    while(it.hasNext()){
-                        SelectionKey key = it.next();
-                        it.remove();
-                        if(key.isReadable()) {
-                            serverManager.run(collection);
-                        }
-                    }
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        };
-
-        Runnable serverTask = () -> {
-            Scanner scanner = new Scanner(System.in);
-            while(true){
+        try {
+            Runnable clientTask = () -> {
                 try {
-                    if (scanner.hasNext()) {
-                        String command = scanner.nextLine();
-                        if (command.equals("exit")) {
-                            System.out.println(TextFormatting.getYellowText("The program is over, I hope you enjoyed it"));
-                            System.exit(0);
-                        } else {
-                            System.out.println(TextFormatting.getRedText("Unknown command"));
+                    while (true) {
+                        selector.select();
+                        Iterator<SelectionKey> it = selector.selectedKeys().iterator();
+
+                        while (it.hasNext()) {
+                            SelectionKey key = it.next();
+                            it.remove();
+                            if (key.isReadable()) {
+                                serverManager.run(collection);
+                            }
                         }
                     }
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
-                catch (Exception ignored){
-                    System.out.println("The program is over, I hope ou enjoyed it");
+            };
+
+            Runnable serverTask = () -> {
+                Scanner scanner = new Scanner(System.in);
+                while (true) {
+                    try {
+                        if (scanner.hasNext()) {
+                            String command = scanner.nextLine();
+                            if (command.equals("exit")) {
+                                System.out.println(TextFormatting.getYellowText("The program is over, I hope you enjoyed it"));
+                                System.exit(0);
+                            } else {
+                                System.out.println(TextFormatting.getRedText("Unknown command"));
+                            }
+                        }
+                    } catch (Exception ignored) {
+                        System.out.println("The program is over, I hope ou enjoyed it");
+                    }
                 }
-            }
-        };
+            };
 
-        ExecutorService pool = Executors.newCachedThreadPool();
-        pool.execute(clientTask);
-        pool.execute(serverTask);
+            ExecutorService pool = Executors.newCachedThreadPool();
+            pool.execute(clientTask);
+            pool.execute(serverTask);
 
-        pool.shutdown();
+            pool.shutdown();
+        }
+        catch (Exception e){
+            System.out.println("The program is over, I hope ou enjoyed it");
+            System.exit(0);
+        }
     }
 }

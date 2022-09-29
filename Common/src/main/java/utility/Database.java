@@ -21,20 +21,18 @@ public class Database {
         try {
             Class.forName("org.postgresql.Driver");
         } catch (ClassNotFoundException e) {
-//            бросить ошибку
         }
         String login = System.getenv("DB_LOGIN");
         String password = System.getenv("DB_PASSWORD");
         String host = System.getenv("DB_HOST");
         if (login == null || password == null) {
-//            Бросить ошибку
         }
         if (host == null) {
             host = "jdbc:postgresql://pg:5432/studs";
         }
 
         conn = DriverManager.getConnection(host, login, password);
-//
+
         System.out.println("Database is connect");
     }
 
@@ -53,11 +51,19 @@ public class Database {
     }
 
     public static boolean updateIntDB(Object obj, String field, int id) throws SQLException {
+//        PreparedStatement statement = conn.prepareStatement("UPDATE collection SET (?) = (?) WHERE id = (?)");
+//        statement.setString(1, field); statement.setDouble(2, (Double) obj);
+//        statement.setInt(3, id);
+
         int flag = statmt.executeUpdate("UPDATE collection SET " + field + " = " + obj + " WHERE id = " + id + ";");
         return (flag > 0);
     }
 
     public static boolean updateStringDB(Object obj, String field, int id) throws SQLException {
+//        PreparedStatement statement = conn.prepareStatement("UPDATE collection SET (field) = (String) obj WHERE id = (?)");
+//        statement.setString(1, field); statement.setString(2, (String) obj);
+//        statement.setInt(3, id);
+
         int flag = statmt.executeUpdate("UPDATE collection SET " + field + " = " + "'" + obj + "'" + " WHERE id = " + id + ";");
         return (flag > 0);
     }

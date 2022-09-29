@@ -22,7 +22,8 @@ public class ClientManager {
 
     public void run(String task) throws IOException, ClassNotFoundException {
         String[] command = task.toLowerCase().split(" ");
-        ByteBuffer byteBuffer;
+        ByteBuffer byteBuffer = null;
+        boolean fMain = true;
         if (command[0].equals("insert") & command.length == 2) {
             String name = FieldReceiver.getName();
             Coordinates coordinates = FieldReceiver.getCoordinates();
@@ -74,16 +75,24 @@ public class ClientManager {
                 System.out.println(TextFormatting.getGreenText("Enter the name of the field you want to change"));
             }
             //Создаём сообщение и сериализуем объект
-            ClientMessage clientMessage = new ClientMessage(command[0], obj, Integer.parseInt(command[1]), field, user[0], user[1]);
-            byteBuffer = Transformation.Serialization(clientMessage);
+            try {
+                ClientMessage clientMessage = new ClientMessage(command[0], obj, Integer.parseInt(command[1]), field, user[0], user[1]);
+                byteBuffer = Transformation.Serialization(clientMessage);
+            }
+            catch (Exception e){
+                System.out.println(TextFormatting.getYellowText("There is no item with id in the collection"));
+                fMain = false;
+            }
         } else {
             //Создаём сообщение и сериализуем объект
             ClientMessage clientMessage = new ClientMessage(command, user[0], user[1]);
             byteBuffer = Transformation.Serialization(clientMessage);
         }
-        //Отправляем запрос на сервер
-        clientSender.send(byteBuffer);
-        //Получаем ответ с сервера
-        clientReceiver.receive();
+        if(fMain) {
+            //Отправляем запрос на сервер
+            clientSender.send(byteBuffer);
+            //Получаем ответ с сервера
+            clientReceiver.receive();
+        }
     }
 }
