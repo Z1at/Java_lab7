@@ -42,6 +42,15 @@ public class FileOutput {
                 Database.insertDB(city, key, login);
 
                 System.out.println("Kek");
+                System.out.println(key);
+                System.out.println(city.getId());
+                ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection WHERE key = '" + key + "' ;");
+                resultSet.next();
+                city.setId(resultSet.getInt("id"));
+                System.out.println(city.getId());
+//                System.out.println("SELECT * FROM collection WHERE key = '" + key + "' ;");
+                System.out.println("You can do it!");
+
                 collection.collection.put(key, city);
                 if (!collection.creators.containsKey(login)) {
                     collection.creators.put(login, new Vector<>());
