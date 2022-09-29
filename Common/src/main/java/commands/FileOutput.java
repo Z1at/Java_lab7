@@ -41,9 +41,6 @@ public class FileOutput {
 
                 Database.insertDB(city, key, login);
 
-                System.out.println(city.getId());
-                city.setId(collection.id - 1);
-                System.out.println(city.getId());
                 System.out.println("Kek");
                 collection.collection.put(key, city);
                 if (!collection.creators.containsKey(login)) {
