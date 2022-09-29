@@ -21,7 +21,6 @@ import java.util.stream.Stream;
  */
 public class FileOutput {
     public static void insert(Collection collection, String key, FileReader file, String login) throws IOException, SQLException {
-        System.out.println("File output main");
         String name = FieldReceiverForFile.getName(file);
         Coordinates coordinates = FieldReceiverForFile.getCoordinates(file);
         double area = FieldReceiverForFile.getArea(file);
@@ -32,17 +31,19 @@ public class FileOutput {
         StandardOfLiving standardOfLiving = FieldReceiverForFile.getStandardOfLiving(file);
         Human governor = FieldReceiverForFile.getGovernor(file);
 
-        System.out.println("File output main 2");
         try {
             if (name != null & coordinates.getY() != (long) -1 & area != (double) -1 & population != (long) -1 &
                     metersAboveSeaLevel != null & climate != null & government != null & standardOfLiving != null & governor != null) {
                 City city = new City(name, coordinates, area, population, metersAboveSeaLevel, climate, government, standardOfLiving, governor);
                 city.setCreationDate();
-
                 city.setCreator(login);
+
 
                 Database.insertDB(city, key, login);
 
+                System.out.println(city.getId());
+                city.setId(collection.id - 1);
+                System.out.println(city.getId());
                 System.out.println("Kek");
                 collection.collection.put(key, city);
                 if (!collection.creators.containsKey(login)) {
@@ -52,7 +53,7 @@ public class FileOutput {
             }
         }
         catch (Exception e){
-            System.out.println("Im here");
+            e.printStackTrace();
         }
 
         //Сортировка в обратном лексикографическом порядке с помощью Stream API и лямбда-выражений

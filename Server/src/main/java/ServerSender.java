@@ -1,3 +1,4 @@
+import utility.TextFormatting;
 import utility.Transformation;
 import src.ServerMessage;
 
@@ -9,22 +10,23 @@ import java.nio.channels.DatagramChannel;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class ServerSender {
-    private final DatagramChannel channel;
-    private SocketAddress clientAddress;
+public class ServerSender extends Thread{
+    private static DatagramChannel channel = null;
+    private static SocketAddress clientAddress;
 
     public ServerSender(DatagramChannel channel){
-        this.channel = channel;
+        ServerSender.channel = channel;
     }
 
     public void setClientAddress(SocketAddress clientAddress) {
-        this.clientAddress = clientAddress;
+        ServerSender.clientAddress = clientAddress;
     }
 
-    public void send(ServerMessage serverMessage) throws IOException, InterruptedException {
+    public static void send(ServerMessage serverMessage) {
         ExecutorService pool = Executors.newFixedThreadPool(4);
         Runnable task = () -> {
             try {
+                System.out.println(TextFormatting.getRedText(String.valueOf(Thread.currentThread())));
                 int i = 0;
                 for (; i + 9000 < serverMessage.message.length(); i += 9000) {
                     channel.send(Transformation.Serialization(new ServerMessage(serverMessage.message.substring(i, i + 9000))), clientAddress);
@@ -42,6 +44,7 @@ public class ServerSender {
                 e.printStackTrace();
             }
         };
+
         pool.execute(task);
         pool.shutdown();
     }

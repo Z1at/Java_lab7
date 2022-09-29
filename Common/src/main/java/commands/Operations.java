@@ -22,7 +22,6 @@ public class Operations {
 
     //0 - ok, 1 - exit, 2 - same path again, 3 - error in file
     public synchronized int run(String[] clientMessage, Collection collection, ServerMessage answer, Operations operations, String login) {
-        System.out.println("Main operation");
         if (clientMessage[0].equals("help") & clientMessage.length == 1){
             Help.create(Help.vocabulary.size());
             answer.plusMessage(Help.help());
@@ -46,7 +45,6 @@ public class Operations {
 //            Database.clear();
         }
         else if(clientMessage[0].equals("execute_script")){
-            System.out.println("Execute script operation");
             ExecuteScript executeScript = new ExecuteScript();
             int result = executeScript.checkingTheCycle(clientMessage[1], operations, answer);
             if(result == 2){

@@ -121,9 +121,10 @@ public class Server {
             };
 
             ExecutorService pool = Executors.newCachedThreadPool();
-            pool.execute(clientTask);
-            pool.execute(serverTask);
-
+//            for (int i = 0; i < 2; i++) {
+                pool.execute(clientTask);
+                pool.execute(serverTask);
+//            }
             pool.shutdown();
         }
         catch (Exception e){

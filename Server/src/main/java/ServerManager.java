@@ -27,11 +27,11 @@ import java.util.concurrent.locks.ReentrantLock;
 import java.util.stream.Stream;
 
 public class ServerManager extends Thread{
-    ServerSender serverSender;
+    final ServerSender serverSender;
     ServerReceiver serverReceiver;
     TreeMap<String, String> users = new TreeMap<>();
     Database database;
-    ReentrantLock lock = new ReentrantLock();
+    final ReentrantLock lock = new ReentrantLock();
 
     public ServerManager(ServerReceiver serverReceiver, ServerSender serverSender, Database database){
         this.serverReceiver = serverReceiver;
@@ -49,14 +49,13 @@ public class ServerManager extends Thread{
     public void run(Collection collection) throws IOException, ClassNotFoundException, InterruptedException, NoSuchAlgorithmException, SQLException {
         lock.lock();
         try {
-            System.out.println("Server manager main");
+            System.out.println(TextFormatting.getBlueText(Thread.currentThread().getName()));
             ServerMessage answer = new ServerMessage("The command was executed" + '\n');
             ByteBuffer byteBuffer = serverReceiver.receive(serverSender);
             ClientMessage clientMessage = (ClientMessage) Transformation.Deserialization(byteBuffer);
             boolean f = true;
             if (clientMessage.command != null) {
                 if (clientMessage.command.equals("insert")) {
-                    System.out.println("Server manager insert");
                     if (clientMessage.arg.contains(",")) {
                         answer.setMessage("There can be no commas in the key" + '\n');
                     } else if (collection.collection.containsKey(clientMessage.arg)) {
@@ -197,7 +196,7 @@ public class ServerManager extends Thread{
         }
         else{
             answer.setMessage("");
-            f = false;
+//            f = false;
             Operations operations = new Operations();
             Runnable serverManagerTask = () -> {
                 try {
@@ -205,18 +204,21 @@ public class ServerManager extends Thread{
                     if (answer.message.equals("")) {
                         answer.setMessage("The command was executed" + '\n');
                     }
-                    serverSender.send(answer);
+
+//                    synchronized (serverSender) {
+//                        serverSender.send(answer);
+//                    }
                 } catch (Exception e) {
                     System.out.println("run_Server_manager");
                 }
             };
-
             ExecutorService pool = Executors.newCachedThreadPool();
             pool.execute(serverManagerTask);
             sleep(100);
         }
 
-        if (f) serverSender.send(answer);
+        if (answer.message.equals("")) answer.setMessage("The command was executed \n");
+        ServerSender.send(answer);
         }
         finally {
             lock.unlock();

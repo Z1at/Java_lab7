@@ -24,10 +24,8 @@ public class ExecuteScript {
     }
 
     public int check(String[] concatenation, Collection collection, FileReader file, Operations operations, ServerMessage answer, String login) throws SQLException, IOException {
-        System.out.println("check main");
         if (concatenation[0].equals("insert") & concatenation.length == 2) {
 //            try {
-            System.out.println("insert for file check");
                 if (!concatenation[1].contains(",")) {
                     FileOutput.insert(collection, concatenation[1], file, login);
                 }
@@ -50,7 +48,6 @@ public class ExecuteScript {
     }
 
     public int executeScript(String path, Collection collection, Operations operations, ServerMessage answer, String login) {
-        System.out.println("Execute script main");
         try {
             File checkFile = new File(path);
             if (!checkFile.canRead()) {

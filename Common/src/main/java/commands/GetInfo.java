@@ -8,6 +8,6 @@ public class GetInfo {
         return "Information about collection: \n" + "Type of collection: " + "LinkedHashMap" + "\n" +
                 "Type of collection items: " + "Cities" + "\n" +
                 "Initialization date: " + initTime + "\n" +
-                "Number of items in the collection: " + collection.collection.size() + '\n' + '\n';
+                "Number of items in the collection: " + collection.collection.size() + '\n';
     }
 }

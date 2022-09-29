@@ -12,12 +12,12 @@ public class Database {
     // --------ПОДКЛЮЧЕНИЕ К БАЗЕ ДАННЫХ--------
     public void connection() throws ClassNotFoundException, SQLException
     {
-        conn = null;
+//        conn = null;
 //        Class.forName("org.sqlite.JDBC");
 //        conn = DriverManager.getConnection("jdbc:sqlite:TstDataBase");
-
-
-
+//
+//
+//
         try {
             Class.forName("org.postgresql.Driver");
         } catch (ClassNotFoundException e) {
@@ -68,8 +68,8 @@ public class Database {
         return (flag > 0);
     }
 
-    public static void insertDB(City city, String key, String login) throws SQLException {
-        int i = 0;
+    public static void insertDB(City city, String key, String login) {
+        int id = 0;
         while(true) {
             try {
                 String query = "INSERT INTO collection (key, id, name, coordinates_of_x, coordinates_of_y," +
@@ -77,7 +77,7 @@ public class Database {
                         "name_of_governor, height_of_governor, birthday_of_governor, creator) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
                 PreparedStatement statement = conn.prepareStatement(query);
                 statement.setString(1, key);
-                statement.setInt(2, i);
+                statement.setInt(2, id);
                 statement.setString(3, city.getName());
                 statement.setFloat(4, city.getCoordinates().getX());
                 statement.setDouble(5, city.getCoordinates().getY());
@@ -93,9 +93,10 @@ public class Database {
                 statement.setString(15, city.getGovernor().getBirthday().toString());
                 statement.setString(16, login);
                 statement.execute();
+                id++;
                 break;
             } catch (Exception ignored) {
-                i++;
+                id++;
             }
         }
     }
