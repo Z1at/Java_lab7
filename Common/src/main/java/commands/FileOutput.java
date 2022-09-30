@@ -38,18 +38,13 @@ public class FileOutput {
                 city.setCreationDate();
                 city.setCreator(login);
 
-
-                Database.insertDB(city, key, login);
+                Database.insertDB(city, key, login, collection);
 
                 System.out.println("Kek");
-                System.out.println(key);
-                System.out.println(city.getId());
                 ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection WHERE key = '" + key + "' ;");
                 resultSet.next();
                 city.setId(resultSet.getInt("id"));
-                System.out.println(city.getId());
-//                System.out.println("SELECT * FROM collection WHERE key = '" + key + "' ;");
-                System.out.println("You can do it!");
+                resultSet.close();
 
                 collection.collection.put(key, city);
                 if (!collection.creators.containsKey(login)) {

@@ -68,7 +68,7 @@ public class ServerManager extends Thread{
                             city.setId(collection.id);
                             collection.id++;
                             try {
-                                Database.insertDB(city, clientMessage.arg, clientMessage.login);
+                                Database.insertDB(city, clientMessage.arg, clientMessage.login, collection);
 
                                 //ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection" + " WHERE key = " + "'" + clientMessage.arg + "'" + ";");
                                 //city.setId(resultSet.getInt("id"));

@@ -68,8 +68,7 @@ public class Database {
         return (flag > 0);
     }
 
-    public static void insertDB(City city, String key, String login) {
-        int id = 0;
+    public static void insertDB(City city, String key, String login, Collection collection) {
         while(true) {
             try {
                 String query = "INSERT INTO collection (key, id, name, coordinates_of_x, coordinates_of_y," +
@@ -77,7 +76,7 @@ public class Database {
                         "name_of_governor, height_of_governor, birthday_of_governor, creator) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
                 PreparedStatement statement = conn.prepareStatement(query);
                 statement.setString(1, key);
-                statement.setInt(2, id);
+                statement.setInt(2, collection.id);
                 statement.setString(3, city.getName());
                 statement.setFloat(4, city.getCoordinates().getX());
                 statement.setDouble(5, city.getCoordinates().getY());
@@ -93,10 +92,10 @@ public class Database {
                 statement.setString(15, city.getGovernor().getBirthday().toString());
                 statement.setString(16, login);
                 statement.execute();
-                id++;
+                collection.id++;
                 break;
             } catch (Exception ignored) {
-                id++;
+                collection.id++;
             }
         }
     }
