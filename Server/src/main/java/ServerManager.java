@@ -217,8 +217,13 @@ public class ServerManager extends Thread{
             sleep(100);
         }
 
+
         if (answer.message.equals("")) answer.setMessage("The command was executed \n");
-        ServerSender.send(answer);
+//        ExecutorService pool = Executors.newFixedThreadPool(4);
+        Thread thread = new Thread(new ServerSender(answer));
+        thread.start();
+        thread.join();
+//        ServerSender.send(answer);
         }
         finally {
             lock.unlock();

@@ -1,6 +1,7 @@
 import data.City;
 import data.Coordinates;
 import data.Human;
+import src.ServerMessage;
 import utility.Collection;
 import utility.Database;
 import utility.TextFormatting;
@@ -71,7 +72,8 @@ public class Server {
         stream.forEach((s) -> collection.collection.put(s, collection.collection.remove(s)));
 
         ServerReceiver serverReceiver = new ServerReceiver(serverChannel);
-        ServerSender serverSender = new ServerSender(serverChannel);
+        ServerSender serverSender = new ServerSender(new ServerMessage(""));
+        serverSender.SetChannel(serverChannel);
         ServerManager serverManager = new ServerManager(serverReceiver, serverSender, database);
 
         serverManager.startServer();
@@ -95,6 +97,7 @@ public class Server {
                                 serverManager.run(collection);
                             }
                         }
+                        System.out.println(TextFormatting.getYellowText(Thread.currentThread().getName()));
                     }
                 } catch (Exception e) {
                     e.printStackTrace();

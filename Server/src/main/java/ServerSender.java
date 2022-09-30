@@ -10,11 +10,16 @@ import java.nio.channels.DatagramChannel;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class ServerSender extends Thread{
+public class ServerSender implements Runnable{
     private static DatagramChannel channel = null;
     private static SocketAddress clientAddress;
+    private static ServerMessage serverMessage;
 
-    public ServerSender(DatagramChannel channel){
+    public ServerSender(ServerMessage answer){
+        serverMessage = answer;
+    }
+
+    public void SetChannel(DatagramChannel channel){
         ServerSender.channel = channel;
     }
 
@@ -22,11 +27,11 @@ public class ServerSender extends Thread{
         ServerSender.clientAddress = clientAddress;
     }
 
-    public static void send(ServerMessage serverMessage) {
-        ExecutorService pool = Executors.newFixedThreadPool(4);
-        Runnable task = () -> {
+    public static void send() {
+//        ExecutorService pool = Executors.newFixedThreadPool(4);
+//        Runnable task = () -> {
             try {
-                System.out.println(TextFormatting.getRedText(String.valueOf(Thread.currentThread())));
+                System.out.println(TextFormatting.getRedText(Thread.currentThread().getName()));
                 int i = 0;
                 for (; i + 9000 < serverMessage.message.length(); i += 9000) {
                     channel.send(Transformation.Serialization(new ServerMessage(serverMessage.message.substring(i, i + 9000))), clientAddress);
@@ -43,9 +48,14 @@ public class ServerSender extends Thread{
             catch (Exception e){
                 e.printStackTrace();
             }
-        };
+//        };
 
-        pool.execute(task);
-        pool.shutdown();
+//        pool.execute(task);
+//        pool.shutdown();
+    }
+
+    @Override
+    public void run() {
+        send();
     }
 }
