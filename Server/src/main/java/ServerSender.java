@@ -31,16 +31,15 @@ public class ServerSender implements Runnable{
 //        ExecutorService pool = Executors.newFixedThreadPool(4);
 //        Runnable task = () -> {
             try {
-                System.out.println(TextFormatting.getRedText(Thread.currentThread().getName()));
                 int i = 0;
                 for (; i + 9000 < serverMessage.message.length(); i += 9000) {
                     channel.send(Transformation.Serialization(new ServerMessage(serverMessage.message.substring(i, i + 9000))), clientAddress);
-                    Thread.sleep(50);
+                    Thread.sleep(5);
                 }
 
                 if (i < serverMessage.message.length()) {
                     channel.send(Transformation.Serialization(new ServerMessage(serverMessage.message.substring(i))), clientAddress);
-                    Thread.sleep(50);
+                    Thread.sleep(5);
                 }
 
                 channel.send(Transformation.Serialization(new ServerMessage("end")), clientAddress);

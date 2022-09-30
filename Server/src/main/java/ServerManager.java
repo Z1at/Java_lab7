@@ -23,6 +23,7 @@ import java.util.TreeMap;
 import java.util.Vector;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.stream.Stream;
 
@@ -31,6 +32,7 @@ public class ServerManager extends Thread{
     ServerReceiver serverReceiver;
     TreeMap<String, String> users = new TreeMap<>();
     Database database;
+//    ExecutorService poolSending = Executors.newFixedThreadPool(4);
     final ReentrantLock lock = new ReentrantLock();
 
     public ServerManager(ServerReceiver serverReceiver, ServerSender serverSender, Database database){
@@ -49,7 +51,6 @@ public class ServerManager extends Thread{
     public void run(Collection collection) throws IOException, ClassNotFoundException, InterruptedException, NoSuchAlgorithmException, SQLException {
         lock.lock();
         try {
-            System.out.println(TextFormatting.getBlueText(Thread.currentThread().getName()));
             ServerMessage answer = new ServerMessage("The command was executed" + '\n');
             ByteBuffer byteBuffer = serverReceiver.receive(serverSender);
             ClientMessage clientMessage = (ClientMessage) Transformation.Deserialization(byteBuffer);
@@ -214,16 +215,18 @@ public class ServerManager extends Thread{
             };
             ExecutorService pool = Executors.newCachedThreadPool();
             pool.execute(serverManagerTask);
-            sleep(100);
+            pool.shutdown();
+            pool.awaitTermination(24, TimeUnit.HOURS);
+//            sleep(100);
         }
 
 
         if (answer.message.equals("")) answer.setMessage("The command was executed \n");
-//        ExecutorService pool = Executors.newFixedThreadPool(4);
-        Thread thread = new Thread(new ServerSender(answer));
-        thread.start();
-        thread.join();
-//        ServerSender.send(answer);
+        ExecutorService pool = Executors.newFixedThreadPool(4);
+        pool.execute(new ServerSender(answer));
+        pool.shutdown();
+        pool.awaitTermination(24, TimeUnit.HOURS);
+
         }
         finally {
             lock.unlock();

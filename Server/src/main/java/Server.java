@@ -97,7 +97,6 @@ public class Server {
                                 serverManager.run(collection);
                             }
                         }
-                        System.out.println(TextFormatting.getYellowText(Thread.currentThread().getName()));
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
