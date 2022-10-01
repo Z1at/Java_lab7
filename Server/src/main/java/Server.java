@@ -94,7 +94,7 @@ public class Server {
                             SelectionKey key = it.next();
                             it.remove();
                             if (key.isReadable()) {
-                                serverManager.run(collection);
+                                serverManager.runServer(collection);
                             }
                         }
                     }

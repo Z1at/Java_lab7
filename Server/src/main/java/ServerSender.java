@@ -45,7 +45,7 @@ public class ServerSender implements Runnable{
                 channel.send(Transformation.Serialization(new ServerMessage("end")), clientAddress);
             }
             catch (Exception e){
-                e.printStackTrace();
+//                e.printStackTrace();
             }
 //        };
 

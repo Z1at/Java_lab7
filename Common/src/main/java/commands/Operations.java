@@ -40,7 +40,7 @@ public class Operations {
                 clear.clear(collection, login);
             }
             catch (SQLException ignored){
-                System.out.println("clear_operations");
+//                System.out.println("clear_operations");
             }
 //            Database.clear();
         }
@@ -67,7 +67,7 @@ public class Operations {
                 removeKey.removeKey(clientMessage[1], collection, login, answer);
             }
             catch (SQLException ignored){
-                System.out.println("remove_key_operations");
+//                System.out.println("remove_key_operations");
             }
         }
         else if (clientMessage[0].equals("remove_greater") & clientMessage.length == 2){
@@ -76,7 +76,7 @@ public class Operations {
                 removeGreater.removeGreater(collection, clientMessage[1], login, answer);
             }
             catch (SQLException ignored){
-                System.out.println("remove_greater_operations");
+//                System.out.println("remove_greater_operations");
             }
         }
         else if(clientMessage[0].equals("remove_lower") & clientMessage.length == 2){
@@ -85,7 +85,7 @@ public class Operations {
                 removeLower.removeLower(collection, clientMessage[1], login, answer);
             }
             catch (SQLException ignored){
-                System.out.println("remove_lower_operations");
+//                System.out.println("remove_lower_operations");
             }
         }
         else if(clientMessage[0].equals("remove_greater_key") & clientMessage.length == 2){
@@ -94,7 +94,7 @@ public class Operations {
                 removeGreaterKey.removeGreaterKey(clientMessage[1], collection, login, answer);
             }
             catch (SQLException ignored){
-                System.out.println("remove_greater_key_operations");
+//                System.out.println("remove_greater_key_operations");
             }
         }
         else if(clientMessage[0].equals("remove_any_by_governor") & clientMessage.length == 4){
@@ -105,7 +105,7 @@ public class Operations {
             catch (NumberFormatException exception){
                 answer.plusMessage("Wrong arguments" + '\n');
             } catch (SQLException e) {
-                e.printStackTrace();
+//                e.printStackTrace();
             }
         }
         else if(clientMessage[0].equals("count_less_than_government") & clientMessage.length == 2){

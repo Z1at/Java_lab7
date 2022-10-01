@@ -27,13 +27,14 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.stream.Stream;
 
-public class ServerManager extends Thread{
+public class ServerManager{
     final ServerSender serverSender;
     ServerReceiver serverReceiver;
     TreeMap<String, String> users = new TreeMap<>();
     Database database;
-//    ExecutorService poolSending = Executors.newFixedThreadPool(4);
     final ReentrantLock lock = new ReentrantLock();
+//    ExecutorService pool = Executors.newCachedThreadPool();
+//    ExecutorService poolSender = Executors.newFixedThreadPool(8);
 
     public ServerManager(ServerReceiver serverReceiver, ServerSender serverSender, Database database){
         this.serverReceiver = serverReceiver;
@@ -48,7 +49,7 @@ public class ServerManager extends Thread{
         }
     }
 
-    public void run(Collection collection) throws IOException, ClassNotFoundException, InterruptedException, NoSuchAlgorithmException, SQLException {
+    public void runServer(Collection collection) throws IOException, ClassNotFoundException, InterruptedException, NoSuchAlgorithmException, SQLException {
         lock.lock();
         try {
             ServerMessage answer = new ServerMessage("The command was executed" + '\n');
@@ -202,30 +203,36 @@ public class ServerManager extends Thread{
             Runnable serverManagerTask = () -> {
                 try {
                     operations.run(clientMessage.commands, collection, answer, operations, clientMessage.login);
-                    if (answer.message.equals("")) {
-                        answer.setMessage("The command was executed" + '\n');
-                    }
+//                    if (answer.message.equals("")) {
+//                        answer.setMessage("The command was executed" + '\n');
+//                    }
 
 //                    synchronized (serverSender) {
 //                        serverSender.send(answer);
 //                    }
+                    if(clientMessage.commands[0].equals("execute_script")) {
+                        for (String keys : collection.collection.keySet()) {
+                            ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection WHERE key = '" + keys + "' ;");
+                            resultSet.next();
+                            collection.collection.get(keys).setId(resultSet.getInt("id"));
+                        }
+                    }
                 } catch (Exception e) {
-                    System.out.println("run_Server_manager");
+                    answer.setMessage("Simultaneous attempt to read and update the collection");
                 }
             };
             ExecutorService pool = Executors.newCachedThreadPool();
             pool.execute(serverManagerTask);
+            Thread.sleep(200);
+        }
+            if (answer.message.equals("")) answer.setMessage("The command was executed \n");
+
+            ExecutorService pool = Executors.newFixedThreadPool(4);
+            pool.execute(new ServerSender(answer));
             pool.shutdown();
             pool.awaitTermination(24, TimeUnit.HOURS);
-//            sleep(100);
-        }
 
 
-        if (answer.message.equals("")) answer.setMessage("The command was executed \n");
-        ExecutorService pool = Executors.newFixedThreadPool(4);
-        pool.execute(new ServerSender(answer));
-        pool.shutdown();
-        pool.awaitTermination(24, TimeUnit.HOURS);
 
         }
         finally {

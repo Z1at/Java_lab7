@@ -40,11 +40,11 @@ public class FileOutput {
 
                 Database.insertDB(city, key, login, collection);
 
-                System.out.println("Kek");
-                ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection WHERE key = '" + key + "' ;");
-                resultSet.next();
-                city.setId(resultSet.getInt("id"));
-                resultSet.close();
+//                System.out.println("Kek");
+//                ResultSet resultSet = Database.statmt.executeQuery("SELECT * FROM collection WHERE key = '" + key + "' ;");
+//                resultSet.next();
+//                city.setId(resultSet.getInt("id"));
+//                resultSet.close();
 
                 collection.collection.put(key, city);
                 if (!collection.creators.containsKey(login)) {
@@ -54,7 +54,7 @@ public class FileOutput {
             }
         }
         catch (Exception e){
-            e.printStackTrace();
+//            e.printStackTrace();
         }
 
         //Сортировка в обратном лексикографическом порядке с помощью Stream API и лямбда-выражений
